@@ -6,7 +6,7 @@ A basic example to use the slim framework.
 
 Instructions:
 1. Clone the repo
-2. Type the command composer install (you must be composer installed)
+2. Type the command composer install (you must have the composer installed)
 3. Type the command: php -S localhost:7800
 
 The routes are structured like: http://{url}/{module}/{action}/{id} (this ID can exists or no)

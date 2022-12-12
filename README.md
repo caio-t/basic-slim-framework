@@ -1,7 +1,5 @@
 # Example to use slim framework
 
-Example to use slim framework
-
 A basic example to use the slim framework.
 
 Instructions:

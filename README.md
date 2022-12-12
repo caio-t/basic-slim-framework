@@ -1,4 +1,4 @@
-# Example to use slim framework microfrontend
+# Example to use slim framework
 
 Example to use slim framework
 

@@ -17,4 +17,4 @@ It's an example how to show the customer list
 It's an example how to show the user data
 > http://localhost:7800/customers/view/7889-2323-2112-334-33221-2233
 
-For more details about the slim framework please visits https://slimframework.com
+For more details about the slim framework please go to https://slimframework.com
